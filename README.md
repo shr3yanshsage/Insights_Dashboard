@@ -42,10 +42,6 @@ Built modularly:
 - Easy data ingestion
 - Maintainable design
 
-**Screenshots**
-
-*(Add images here once available)*
-
 **Technologies Used**
 
 | Technology  | Purpose |
